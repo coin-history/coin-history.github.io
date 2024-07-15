@@ -1,3 +1,5 @@
 # coin-history
 
-Coming soon.
+**Visualize the history of your coins and spend privately** 
+
+Coming soon
